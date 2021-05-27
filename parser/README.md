@@ -2,7 +2,7 @@
 
 ### About
 
-This program parses through a text file argument and outputs the following data:
+This program parses through a text file argument and outputs the following data in a list format:
 
 - Customer number and account number
 - The bill period
