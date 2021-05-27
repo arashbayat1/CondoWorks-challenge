@@ -1,0 +1,9 @@
+{
+  "name": "parser-executable",
+  "version": "1.0.0",
+  "description": "Parses a text file and outputs specific information",
+  "main": "index.js",
+  "bin": "bin.js",
+  "author": "Arash Bayat",
+  "license": "ISC"
+}
