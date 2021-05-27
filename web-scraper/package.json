@@ -2,7 +2,7 @@
   "name": "scraper_problem",
   "version": "1.0.0",
   "description": "Web scraper for CondoWorks which finds and downloads a PDF",
-  "main": "index.js",
+  "main": "headful_scraper.js",
   "engines": {
     "node": ">=0.12"
   },
