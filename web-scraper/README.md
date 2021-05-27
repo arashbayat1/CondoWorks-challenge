@@ -2,7 +2,7 @@
 
 ### About
 
-This web scraper logs onto the CondoWorks website, navigates to a specific page, and downloads the specified PDF invoice.
+This web scraper logs onto the CondoWorks website, navigates to a specific page, and downloads the specified PDF invoice into `./Invoice Downloads` from the root directory
 
 ### Installation
 
